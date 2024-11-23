@@ -1,9 +1,13 @@
 # Instasport Public API 
 
-Get list of clubs
+List of clubs
 
     https://instasport.ua/openapi/?format=json
 
-Get list of clubs in Kyiv
+List of clubs in Kyiv
 
     https://instasport.ua/openapi/?format=json&city=kyiv
+
+List of TRX clubs in Kyiv
+
+    https://instasport.ua/openapi/?format=json&city=kyiv&activity=trx
